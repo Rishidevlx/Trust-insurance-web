@@ -1,0 +1,10 @@
+# Documentation files ignored from Git tracking
+Details.md
+CICD.md
+
+# Dependencies & Build artifacts
+node_modules/
+dist/
+.env
+.env.local
+.DS_Store
